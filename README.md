@@ -32,7 +32,7 @@ The SQL Agent uses a **tool-based LangChain workflow**:
 
 ```bash
 # Clone the repo
-git clone https://github.com/<your-username>/sql-agent.git
+git clone https://github.com/NimaNA11/sql-agent.git
 cd sql-agent
 
 # Install dependencies
